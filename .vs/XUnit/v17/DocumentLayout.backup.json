@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SOURCES\\XUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EBD6A03-72BA-456B-AF08-551BF7FF0F8C}|Strings.Test\\Strings.Test.csproj|c:\\sources\\xunit\\strings.test\\namestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EBD6A03-72BA-456B-AF08-551BF7FF0F8C}|Strings.Test\\Strings.Test.csproj|solutionrelative:strings.test\\namestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C764B6F-C021-45C8-BBD9-DADC4040DD31}|Strings\\Strings.csproj|c:\\sources\\xunit\\strings\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C764B6F-C021-45C8-BBD9-DADC4040DD31}|Strings\\Strings.csproj|solutionrelative:strings\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C764B6F-C021-45C8-BBD9-DADC4040DD31}|Strings\\Strings.csproj|c:\\sources\\xunit\\strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C764B6F-C021-45C8-BBD9-DADC4040DD31}|Strings\\Strings.csproj|solutionrelative:strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1C190B-4F46-4B15-8C92-8BE90A4F1F2B}|Calculations\\Calculations.csproj|c:\\sources\\xunit\\calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1C190B-4F46-4B15-8C92-8BE90A4F1F2B}|Calculations\\Calculations.csproj|solutionrelative:calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625B56D4-18F4-4505-B830-1BC97F548208}|Calculations.Test\\Calculations.Test.csproj|c:\\sources\\xunit\\calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625B56D4-18F4-4505-B830-1BC97F548208}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NamesTest.cs",
+              "DocumentMoniker": "C:\\SOURCES\\XUnit\\Strings.Test\\NamesTest.cs",
+              "RelativeDocumentMoniker": "Strings.Test\\NamesTest.cs",
+              "ToolTip": "C:\\SOURCES\\XUnit\\Strings.Test\\NamesTest.cs",
+              "RelativeToolTip": "Strings.Test\\NamesTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwEcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:25:49.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Names.cs",
+              "DocumentMoniker": "C:\\SOURCES\\XUnit\\Strings\\Names.cs",
+              "RelativeDocumentMoniker": "Strings\\Names.cs",
+              "ToolTip": "C:\\SOURCES\\XUnit\\Strings\\Names.cs",
+              "RelativeToolTip": "Strings\\Names.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:24:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SOURCES\\XUnit\\Strings\\Program.cs",
+              "RelativeDocumentMoniker": "Strings\\Program.cs",
+              "ToolTip": "C:\\SOURCES\\XUnit\\Strings\\Program.cs",
+              "RelativeToolTip": "Strings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:23:16.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\SOURCES\\XUnit\\Calculations\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculations\\Calculator.cs",
+              "ToolTip": "C:\\SOURCES\\XUnit\\Calculations\\Calculator.cs",
+              "RelativeToolTip": "Calculations\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:11:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\SOURCES\\XUnit\\Calculations.Test\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "Calculations.Test\\CalculatorTest.cs",
+              "ToolTip": "C:\\SOURCES\\XUnit\\Calculations.Test\\CalculatorTest.cs",
+              "RelativeToolTip": "Calculations.Test\\CalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:08:42.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

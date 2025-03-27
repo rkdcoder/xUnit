@@ -1,0 +1,14 @@
+C:\SOURCES\XUnit\Strings\bin\Debug\net9.0\Strings.exe
+C:\SOURCES\XUnit\Strings\bin\Debug\net9.0\Strings.deps.json
+C:\SOURCES\XUnit\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+C:\SOURCES\XUnit\Strings\bin\Debug\net9.0\Strings.dll
+C:\SOURCES\XUnit\Strings\bin\Debug\net9.0\Strings.pdb
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.dll
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\refint\Strings.dll
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.pdb
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\ref\Strings.dll

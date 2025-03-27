@@ -1,0 +1,14 @@
+C:\SOURCES\XUnit\Calculations\bin\Debug\net9.0\Calculations.exe
+C:\SOURCES\XUnit\Calculations\bin\Debug\net9.0\Calculations.deps.json
+C:\SOURCES\XUnit\Calculations\bin\Debug\net9.0\Calculations.runtimeconfig.json
+C:\SOURCES\XUnit\Calculations\bin\Debug\net9.0\Calculations.dll
+C:\SOURCES\XUnit\Calculations\bin\Debug\net9.0\Calculations.pdb
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfoInputs.cache
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfo.cs
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.csproj.CoreCompileInputs.cache
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.dll
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\refint\Calculations.dll
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.pdb
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\Calculations.genruntimeconfig.cache
+C:\SOURCES\XUnit\Calculations\obj\Debug\net9.0\ref\Calculations.dll
