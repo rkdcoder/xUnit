@@ -12,3 +12,4 @@ C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\refint\Strings.dll
 C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.pdb
 C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
 C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\ref\Strings.dll
+C:\SOURCES\XUnit\Strings\obj\Debug\net9.0\Strings.sourcelink.json

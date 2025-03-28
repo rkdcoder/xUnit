@@ -136,3 +136,4 @@ C:\SOURCES\XUnit\Strings.Test\obj\Debug\net9.0\refint\Strings.Test.dll
 C:\SOURCES\XUnit\Strings.Test\obj\Debug\net9.0\Strings.Test.pdb
 C:\SOURCES\XUnit\Strings.Test\obj\Debug\net9.0\Strings.Test.genruntimeconfig.cache
 C:\SOURCES\XUnit\Strings.Test\obj\Debug\net9.0\ref\Strings.Test.dll
+C:\SOURCES\XUnit\Strings.Test\obj\Debug\net9.0\Strings.Test.sourcelink.json
